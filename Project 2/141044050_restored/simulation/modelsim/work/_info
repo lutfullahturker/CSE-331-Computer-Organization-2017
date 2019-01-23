@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Education\CSE-331  Bilgisayar Organizasyonu\Project 2\141044050_restored\simulation\modelsim
+vmips_core
+Z1 IcCOF3OHRh@faICOMbQW:c2
+Z2 VnK<@3N:AgEH<N_6gz4GCU0
+Z3 dD:\Education\CSE-331  Bilgisayar Organizasyonu\Project 2\141044050_restored\simulation\modelsim
+Z4 w1511168552
+Z5 8D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v
+Z6 FD:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 VFLz=STglQmC[b`keEncL2
+Z10 !s108 1514575371.610000
+Z11 !s107 D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_registers
+!i10b 1
+!s100 K6Kb2_=QnWDg3d8dX=_Q^3
+IPQLQNWa4oILmY3D;^S]PG1
+VIKjnY3G]3R=R@`]J?b;XX0
+R3
+w1511168724
+8D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v
+FD:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1514575371.973000
+!s107 D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v|
+!s90 -reportprogress|300|-work|work|D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v|
+!s101 -O0
+R8
+vmips_testbench
+Z13 IBEmEF=V@]GGMLR^GK<XH83
+Z14 Vf2]IUD=7[>X:I4<2Q=7YA2
+R3
+Z15 w1511186109
+Z16 8D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core_testbench.v
+Z17 FD:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core_testbench.v
+L0 1
+R7
+r1
+31
+R8
+!i10b 1
+Z18 !s100 =Gh;GSEX:l@_Lf1BVbY_k2
+!s85 0
+Z19 !s108 1514575371.826000
+Z20 !s107 D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core_testbench.v|
+Z21 !s90 -reportprogress|300|-work|work|D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core_testbench.v|
+!s101 -O0

@@ -1,0 +1,27 @@
+Quartus II Archive log --	C:/Users/lutfu/Desktop/141044050.qarlog
+
+Archive:	C:/Users/lutfu/Desktop/141044050.qar
+Date:		Mon Nov 20 16:56:03 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/lutfu/Desktop/141044050_restored/assignment_defaults.qdf
+C:/Users/lutfu/Desktop/141044050_restored/db/project02.cmp.hdb
+C:/Users/lutfu/Desktop/141044050_restored/db/project02.db_info
+C:/Users/lutfu/Desktop/141044050_restored/incremental_db/compiled_partitions/project02.db_info
+C:/Users/lutfu/Desktop/141044050_restored/mips_core.v
+C:/Users/lutfu/Desktop/141044050_restored/mips_core_testbench.v
+C:/Users/lutfu/Desktop/141044050_restored/mips_registers.v
+C:/Users/lutfu/Desktop/141044050_restored/project02.qpf
+C:/Users/lutfu/Desktop/141044050_restored/project02.qsf
+C:/Users/lutfu/Desktop/141044050_restored/simulation/modelsim/registers.mem
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Dec 17 14:54:57 2017
+Source archive file:	D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050.qar
+Archive was extracted into	D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/
+		 - successfully.

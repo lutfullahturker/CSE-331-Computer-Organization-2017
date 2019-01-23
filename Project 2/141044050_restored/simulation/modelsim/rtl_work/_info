@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Education\CSE-331  Bilgisayar Organizasyonu\Project 2\141044050_restored\simulation\modelsim
+vmips_core
+IPD8E6ZY6gjndYWCL`oLzQ3
+VnK<@3N:AgEH<N_6gz4GCU0
+Z1 dD:\Education\CSE-331  Bilgisayar Organizasyonu\Project 2\141044050_restored\simulation\modelsim
+w1511168552
+8D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v
+FD:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+!i10b 1
+!s100 VFLz=STglQmC[b`keEncL2
+!s85 0
+!s108 1514575316.679000
+!s107 D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored|D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_core.v|
+!s101 -O0
+Z4 !s92 -vlog01compat -work work {+incdir+D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored} -O0
+vmips_registers
+!i10b 1
+!s100 K6Kb2_=QnWDg3d8dX=_Q^3
+IChXJ>Ge[@54`3me`S_[VJ3
+VIKjnY3G]3R=R@`]J?b;XX0
+R1
+w1511168724
+8D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v
+FD:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1514575316.860000
+!s107 D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored|D:/Education/CSE-331  Bilgisayar Organizasyonu/Project 2/141044050_restored/mips_registers.v|
+!s101 -O0
+R3
+R4
