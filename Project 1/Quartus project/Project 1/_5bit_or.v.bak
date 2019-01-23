@@ -1,0 +1,13 @@
+module _5bit_or(InA,InB,S);
+input [4:0] InA,InB;
+output [4:0] S;
+
+assign S[0] = InA[0] | InB[0];
+assign S[1] = InA[1] | InB[1];
+assign S[2] = InA[2] | InB[2];
+assign S[3] = InA[3] | InB[3];
+assign S[4] = InA[4] | InB[4];
+
+
+
+endmodule

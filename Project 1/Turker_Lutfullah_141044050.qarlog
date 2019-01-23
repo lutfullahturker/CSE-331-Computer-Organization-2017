@@ -1,0 +1,38 @@
+Quartus II Archive log --	C:/Users/lutfu/Desktop/Turker_Lutfullah_141044050.qarlog
+
+Archive:	C:/Users/lutfu/Desktop/Turker_Lutfullah_141044050.qar
+Date:		Fri Oct 27 21:13:40 2017
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+D:/Program Files/Quartus/Project1.qpf
+D:/Program Files/Quartus/Project1.qsf
+D:/Program Files/Quartus/db/Project1.cmp.hdb
+D:/Program Files/Quartus/db/Project1.db_info
+D:/Program Files/Quartus/incremental_db/compiled_partitions/Project1.db_info
+D:/Program Files/Quartus/likeALU_demo.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_adder.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_adder_testbench.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_and.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_and_testbench.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_or.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_or_testbench.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_xor.v
+D:/Program Files/Quartus/workspace/Project 1/_5bit_xor_testbench.v
+D:/Program Files/Quartus/workspace/Project 1/full_adder.v
+D:/Program Files/Quartus/workspace/Project 1/full_adder_testbench.v
+D:/Program Files/Quartus/workspace/Project 1/half_adder.v
+D:/Program Files/Quartus/workspace/Project 1/half_adder_testbench.v
+D:/Program Files/Quartus/workspace/Project 1/likeALU.v
+D:/Program Files/Quartus/workspace/Project 1/likeALU_testbench.v
+d:/program files/quartus/quartus/bin64/assignment_defaults.qdf
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Oct 27 21:17:28 2017
+Source archive file:	C:/Users/lutfu/Desktop/Turker_Lutfullah_141044050.qar
+Archive was extracted into	C:/Users/lutfu/Desktop/Turker_Lutfullah_141044050_restored/
+		 - successfully.
